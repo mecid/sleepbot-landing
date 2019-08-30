@@ -31,41 +31,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Monthly Heart Rate
-    description                           : CardioBot presents daily Heart Rate average in a beautiful calendar view during the month.
+  - title                                 : Sleep History
+    description                           : Gain insight into your full sleep history in beautifully designed overviews.
     fontawesome_icon_name                 : calendar-alt
     
-  - title                                 : Daily Heart Rate
-    description                           : CardioBot presents daily Heart Rate summary chart based on your HR zones.
-    fontawesome_icon_name                 : heartbeat
-
-  - title                                 : Heart Rate Variability
-    description                           : CardioBot calculates your Heart Rate Variability baseline/trend during the 40 days, and show you daily sample analysis.
-    fontawesome_icon_name                 : balance-scale
-
-  - title                                 : Sedentary Heart Rate
-    description                           : CardioBot makes Sedentary Heart Rate analysis to understand your cardio health.
-    fontawesome_icon_name                 : chair
-    
-  - title                                 : Sleep and Weekly Sleep
-    description                           : By wearing Apple Watch during the sleep you enable Sleep analysis in CardioBot. It presents your sleep quality and calculates weekly sleep goal achievement.
+  - title                                 : Sleep Tracking
+    description                           : NapBot uses machine learning to automatically track your sleep.
     fontawesome_icon_name                 : bed
 
-  - title                                 : Walking Heart Rate
-    description                           : CardioBot makes Walking Heart Rate analysis to calculate and show your overall physical activity state.
-    fontawesome_icon_name                 : walking
-  
-  - title                                 : Workout
-    description                           : CardioBot makes your Heart Rate analysis during workout to calculate your workout quality score.
-    fontawesome_icon_name                 : running
-
-  - title                                 : Detailed per minute charts
-    description                           : You can check detailed per minute heart rate charts with heart rate zone indication.
+  - title                                 : Detailed Sleep Analysis
+    description                           : NapBot presents detailed sleep phases analysis by calculating deep and light phases.
     fontawesome_icon_name                 : chart-bar
 
-  - title                                 : Recommendation system
-    description                           : CardioBot powered by smart recommendation system, which analyze you Heart Rate and give you recommendations on improving every aspect of your heart.
-    fontawesome_icon_name                 : comments
+  - title                                 : Environmental Sound Exposure
+    description                           : NapBot analyze your Environmental Exposure to understand how it affects your sleep quality.
+    fontawesome_icon_name                 : microphone-alt
+
+  - title                                 : Sleep Heart Rate
+    description                           : NapBot presents sleep Heart Rate summary chart based on your HR zones.
+    fontawesome_icon_name                 : heartbeat
+
+  - title                                 : Sleep Trends
+    description                           : Track your sleep trends to understand how new habits influence your sleep.
+    fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
