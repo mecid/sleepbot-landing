@@ -9,7 +9,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : NapBot
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Machine Learning powered automatic sleep tracker for your Apple Watch and iPhone
+app_description                           : Machine Learning powered sleep tracker for your Apple Watch and iPhone
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -86,22 +86,22 @@ device_color                              : black                               
 
 body_background_color                     : "#000"
 
-link_color                                : "#1d63ea"
+link_color                                : "#af52de"
 
-app_title_color                           : "#000"
-app_price_color                           : "#000"
-app_description_color                     : "#000"
+app_title_color                           : "#fff"
+app_price_color                           : "#fff"
+app_description_color                     : "#fff"
 
-feature_title_color                       : "#000000"
+feature_title_color                       : "#ffffff"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#af52de"
+feature_icons_background_color            : "#222"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#af52de"
+social_icons_background_color             : "#222"
 
-footer_text_color                         : "#666666"
+footer_text_color                         : "#fff"
 
 
 
